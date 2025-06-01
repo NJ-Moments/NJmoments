@@ -192,9 +192,6 @@
                     <a href="https://www.instagram.com/nj_m0ments/?igsh=MWE2cGU0NGYyNHB3Ng%3D%3D#" target="_blank" class="inline-flex items-center justify-center px-8 py-3 font-semibold text-center rounded-full transition-all duration-300 ease-in-out shadow-lg hover:-translate-y-1 hover:shadow-xl bg-white text-blue-600 hover:bg-gray-100 border border-blue-600 text-lg md:text-xl">
                         追蹤我的Instagram ➤
                     </a>
-                    <a href="mailto:njmoments1@gmail.com" class="inline-flex items-center justify-center px-8 py-3 font-semibold text-center rounded-full transition-all duration-300 ease-in-out shadow-lg hover:-translate-y-1 hover:shadow-xl bg-white text-green-600 hover:bg-gray-100 border border-green-600 text-lg md:text-xl">
-                        寄送電子郵件 ✉
-                    </a>
                 </div>
             </div>
         </section>
@@ -203,6 +200,7 @@
             <div class="container mx-auto px-4">
                 <p>© 2025 諾進時刻 NJ Moments. All rights reserved.</p>
                 <p class="text-sm mt-2">感謝您的到訪！</p>
+                <p class="text-sm mt-1">聯絡我：<a href="mailto:njmoments1@gmail.com" class="text-blue-300 hover:text-blue-100 underline">njmoments1@gmail.com</a></p>
                 <p class="text-sm mt-1">感謝 Google Gemini 協助我建構這個網站。</p>
             </div>
         </footer>
